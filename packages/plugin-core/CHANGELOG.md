@@ -1,5 +1,7 @@
 # @solana/plugin-core
 
+## 7.0.0
+
 ## 6.10.0
 
 ### Patch Changes
